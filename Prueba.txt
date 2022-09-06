@@ -9,3 +9,8 @@ Linea 5.1
 Linea 5.2
 Linea 5.3
 Linea 5.4
+Linea 6.1
+Linea 6.2
+Linea 6.3
+Linea 6.4
+Linea 6.5
